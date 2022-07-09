@@ -16,6 +16,7 @@
 		08729CA22876D0E50093C59F /* AgeOfDogTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 08729CA12876D0E50093C59F /* AgeOfDogTests.swift */; };
 		08729CAC2876D0E50093C59F /* AgeOfDogUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 08729CAB2876D0E50093C59F /* AgeOfDogUITests.swift */; };
 		08729CAE2876D0E50093C59F /* AgeOfDogUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 08729CAD2876D0E50093C59F /* AgeOfDogUITestsLaunchTests.swift */; };
+		08729CBB28798D930093C59F /* 449da998c50322a7b7c677d4a86d50db-desenho-de-cachorro-fofo.png in Resources */ = {isa = PBXBuildFile; fileRef = 08729CBA28798D930093C59F /* 449da998c50322a7b7c677d4a86d50db-desenho-de-cachorro-fofo.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		08729CA72876D0E50093C59F /* AgeOfDogUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = AgeOfDogUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		08729CAB2876D0E50093C59F /* AgeOfDogUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AgeOfDogUITests.swift; sourceTree = "<group>"; };
 		08729CAD2876D0E50093C59F /* AgeOfDogUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AgeOfDogUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		08729CBA28798D930093C59F /* 449da998c50322a7b7c677d4a86d50db-desenho-de-cachorro-fofo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "449da998c50322a7b7c677d4a86d50db-desenho-de-cachorro-fofo.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,6 +102,7 @@
 			isa = PBXGroup;
 			children = (
 				08729C8A2876D0E40093C59F /* AppDelegate.swift */,
+				08729CBA28798D930093C59F /* 449da998c50322a7b7c677d4a86d50db-desenho-de-cachorro-fofo.png */,
 				08729C8C2876D0E40093C59F /* SceneDelegate.swift */,
 				08729C8E2876D0E40093C59F /* ViewController.swift */,
 				08729C902876D0E40093C59F /* Main.storyboard */,
@@ -234,6 +237,7 @@
 				08729C972876D0E50093C59F /* LaunchScreen.storyboard in Resources */,
 				08729C942876D0E50093C59F /* Assets.xcassets in Resources */,
 				08729C922876D0E40093C59F /* Main.storyboard in Resources */,
+				08729CBB28798D930093C59F /* 449da998c50322a7b7c677d4a86d50db-desenho-de-cachorro-fofo.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
